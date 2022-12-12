@@ -14,7 +14,7 @@ for (bc = 'A'; bc <= 'Z'; bc++)
 {
 putchar(bc);
 }
-putchar(' ');
+putchar('\n');
 return (0);
 }
 
