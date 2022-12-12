@@ -13,8 +13,8 @@ putchar(ab);
 for (bc = 'A'; bc <= 'Z'; bc++)
 {
 putchar(bc);
-putchar(' ');
 }
+putchar(' ');
 return (0);
 }
 
