@@ -3,7 +3,7 @@
 *main - Prints all alphabet in lower case
 *Return: Always 0
 */
-char main(void)
+int main(void)
 {
 char az;
 for (az = 'a'; az <= 'z'; az++)
