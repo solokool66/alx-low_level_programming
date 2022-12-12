@@ -10,7 +10,6 @@ for (ab = 'a'; ab <= 'z'; ab++)
 {
 putchar(ab);
 }
-putchar('\n');
 for (bc = 'A'; bc <= 'Z'; bc++)
 {
 putchar(bc);
