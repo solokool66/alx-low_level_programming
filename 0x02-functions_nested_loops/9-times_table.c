@@ -1,23 +1,23 @@
 #include "main.h"
 /**
-*main - check the code
+*times_table - Prints the 9 times table, starting with 0.
 */
 void times_table(void)
 {
-int num, mult, prod;
-for (num = 0; num <= 9; num++)
+int num1, card, pro;
+for (num1 = 0; num1 <= 9; num1++)
 {
 _putchar('0');
-for (mult = 1; mult <= 9; mult++)
+for (card = 1; card <= 9; card++)
 {
 _putchar(',');
 _putchar(' ');
-prod = num * mult;
-if (prod <= 9)
+pro = num1 * card;
+if (pro <= 9)
 _putchar(' ');
 else
-_putchar((prod / 10) + '0');
-_putchar((prod % 10) + '0');
+_putchar((pro / 10) + '0');
+_putchar((pro % 10) + '0');
 }
 _putchar('\n');
 }
