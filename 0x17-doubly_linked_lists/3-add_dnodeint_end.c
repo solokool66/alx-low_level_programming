@@ -1,6 +1,6 @@
 /*
  * File: 3-add_dnodeint_end.c
- * Auth: Gedeon Obae Gekonge
+ * Auth: Solomon Kingsley Eze
  */
 
 #include "lists.h"

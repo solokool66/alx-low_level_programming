@@ -1,6 +1,6 @@
 /*
  * File: 4-free_dlistint.c
- * Auth: Gedeon Obae Gekonge
+ * Auth: Solomon Kingsley Eze
  */
 
 #include "lists.h"

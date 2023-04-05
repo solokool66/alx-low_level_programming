@@ -1,6 +1,6 @@
 /*
  * File: 0-print_dlistint.c
- * Auth: Gedeon Obae Gekonge
+ * Auth: Solomon Kingsley Eze
  */
 
 #include "lists.h"
