@@ -1,6 +1,6 @@
 /*
  * File: 8-delete_dnodeint.c
- * Auth: Gedeon Obae Gekonge
+ * Auth: Solomon Kingsley Eze
  */
 
 #include "lists.h"
