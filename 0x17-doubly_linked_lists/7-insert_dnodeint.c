@@ -1,6 +1,6 @@
 /*
  * File: 7-insert_dnodeint.c
- * Auth: Gedeon Obae Gekonge
+ * Auth: Solomon Kingsley Eze
  */
 
 #include "lists.h"
